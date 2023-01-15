@@ -18,6 +18,9 @@
   </p>
 </div>
   
+  
+### Instructions
+*  Install the file, extract it, and everything should be already set up! Report any issues so I can fix fast!
 ---------------------------------------
 
 ### Features
